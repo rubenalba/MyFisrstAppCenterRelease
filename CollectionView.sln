@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionView.Android", "CollectionView.Android\CollectionView.Android.csproj", "{4783DC8D-6B7C-4E4C-B69F-8AE8C6DB300C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionView", "CollectionView\CollectionView.csproj", "{5DD9D601-476D-41ED-A394-7795D30E3B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4783DC8D-6B7C-4E4C-B69F-8AE8C6DB300C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4783DC8D-6B7C-4E4C-B69F-8AE8C6DB300C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4783DC8D-6B7C-4E4C-B69F-8AE8C6DB300C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4783DC8D-6B7C-4E4C-B69F-8AE8C6DB300C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD9D601-476D-41ED-A394-7795D30E3B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD9D601-476D-41ED-A394-7795D30E3B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD9D601-476D-41ED-A394-7795D30E3B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD9D601-476D-41ED-A394-7795D30E3B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
