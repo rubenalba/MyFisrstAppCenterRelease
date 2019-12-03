@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4783DC8D-6B7C-4E4C-B69F-8AE8C6DB300C}|Default">
+  <MonoDevelop.Ide.ItemProperties.CollectionView.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Nexus_5X_API_27" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionView/App.xaml.cs">
+    <Files>
+      <File FileName="CollectionView/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CollectionView/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="CollectionView/App.xaml.cs" Line="4" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CollectionView" expanded="True">
+            <Node name="CollectionView" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

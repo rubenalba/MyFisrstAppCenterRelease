@@ -1,0 +1,13 @@
+/Users/ruben.alba/Projects/CollectionView/CollectionView/bin/Debug/netstandard2.0/CollectionView.deps.json
+/Users/ruben.alba/Projects/CollectionView/CollectionView/bin/Debug/netstandard2.0/CollectionView.dll
+/Users/ruben.alba/Projects/CollectionView/CollectionView/bin/Debug/netstandard2.0/ref/CollectionView.dll
+/Users/ruben.alba/Projects/CollectionView/CollectionView/bin/Debug/netstandard2.0/CollectionView.pdb
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/CollectionView.csprojAssemblyReference.cache
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/CollectionView.AssemblyInfoInputs.cache
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/CollectionView.AssemblyInfo.cs
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/CollectionView.dll
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/ref/CollectionView.dll
+/Users/ruben.alba/Projects/CollectionView/CollectionView/obj/Debug/netstandard2.0/CollectionView.pdb
